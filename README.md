@@ -7,7 +7,9 @@
 Для установки pygame необходимо в терминале выполнить 
 ```
 pip install pygame
-
+```
 или 
+
 ```
 pip install -r requirements.txt
+```
