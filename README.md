@@ -5,9 +5,9 @@
 ## Требования
 Игра напмсанна на языке Python и требует бтблтотеку pygame
 Для установки pygame необходимо в терминале выполнить 
-pip install pygame
 ```
+pip install pygame
+
 или 
 ```
-
 pip install -r requirements.txt
