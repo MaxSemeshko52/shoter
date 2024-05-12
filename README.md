@@ -13,3 +13,13 @@ pip install pygame
 ```
 pip install -r requirements.txt
 ```
+## Описание
+
+В игре есть следующее обьекты:
+1.Игрок
+2.Враги
+3.Астероиды
+4.спавн ракет(жизней)
+
+***
+Ссылка на мой GITHUB;[https://github.com/MaxSemeshko52/shoter/edit/main/README.md]
